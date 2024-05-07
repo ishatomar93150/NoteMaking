@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.bg-custom {
+	background: #ab47bc;
+}
+
+.navbar .nav-item .nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.div-color {
+background-image: radial-gradient(circle, #17d717, #00c493, #00a8e5, #0082fc, #2d4bcc);
+		height: 700px;
+		background-size: cover;
+}
+
+.div-color-login{
+	background-image: radial-gradient(circle, #20e820, #67e114, #89da14, #a2d31f, #b5cc2d);
+	height: 500px;
+		background-size: cover;
+}
